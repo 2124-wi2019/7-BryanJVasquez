@@ -1,3 +1,10 @@
+/*
+Bryan Vasquez
+Vasquez_a07b.js
+INFO 2124
+Thoendel
+02/02/2020
+*/
 /* DO NOT MODIFY CODE BETWEEN THESE LINES */
 const standardInput = process.stdin;            
 standardInput.resume();
